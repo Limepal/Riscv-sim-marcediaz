@@ -2,8 +2,8 @@
 
 **Alumno:** ____________________  **Código:** ____________
 
-- **Repositorio Git:** https://github.com/TU_USUARIO/riscv-sim
-- **Carpeta Google Drive (video + código):** https://drive.google.com/________
+- **Repositorio Git:** https://github.com/Limepal/Riscv-sim-marcediaz
+- **Carpeta Google Drive (video + código):** https://drive.google.com/drive/folders/12brF7g8lvQFzH4aYcT9JWfVzku0JdKMF?usp=drive_link 
 
 ## Informe breve
 
