@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/2026 - II/riscv_sim/cmake-build-debug/CMakeFiles/riscv_sim.dir
+C:/Users/gabri/CLionProjects/2026 - II/riscv_sim/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/2026 - II/riscv_sim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
